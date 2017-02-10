@@ -1,0 +1,8 @@
+AMD_30-06-2016_at_15-06-11.CSV filter=lfs diff=lfs merge=lfs -text
+L4_06-07-2016_at_10-42-14.CSV filter=lfs diff=lfs merge=lfs -text
+L5_06-07-2016_at_13-07-29.CSV filter=lfs diff=lfs merge=lfs -text
+L_1_01-07-2016_at_13-24-17.CSV filter=lfs diff=lfs merge=lfs -text
+L_2_05-07-2016_at_09-02-46.CSV filter=lfs diff=lfs merge=lfs -text
+L_3_05-07-2016_at_13-02-11.CSV filter=lfs diff=lfs merge=lfs -text
+U_01-07-2016_at_09-48-35.CSV filter=lfs diff=lfs merge=lfs -text
+WAG_30-06-2016_at_13-16-46.CSV filter=lfs diff=lfs merge=lfs -text
